@@ -13,7 +13,6 @@
 # Extra folder
 bin/
 tmp/
-.settings/
 
 # Extra files
 *.tmp
