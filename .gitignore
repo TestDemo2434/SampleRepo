@@ -10,6 +10,14 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+# Extra folder
+bin/
+tmp/
+.settings/
+
+# Extra files
+*.tmp
+
 # Package Files #
 *.jar
 *.war
