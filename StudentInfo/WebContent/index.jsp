@@ -10,7 +10,7 @@
 <h1>Servlet Demo</h1>
 <br/>
 <h3>Get Method</h3>
-<a href="<%=request.getContextPath()%>/ServletDemo"> Get Method </a>
+<a href="<%=request.getContextPath()%>/ServletDemo"> Get Method1 </a>
 <br/>
 <h3>Post Method</h3>
 <form action="<%=request.getContextPath()%>/ServletDemo" method="post">
